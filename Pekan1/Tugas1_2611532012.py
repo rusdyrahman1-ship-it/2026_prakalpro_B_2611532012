@@ -1,6 +1,7 @@
 print("=== BIODATA MAHASISWA INFORMATIKA 2026 ===")
 print("Nama    : Muhammad Rusdy Rahman")
 print("NIM     : 2611532012")
+print("Alamat  : Desa Batu Belah, kec. Kampar, kab. Kampar, prov. Riau")
 print("Jurusan : Informatika")
 print("Kelas   : IF-B")
 print("Hobi    : Membaca dan Menyanyi")
