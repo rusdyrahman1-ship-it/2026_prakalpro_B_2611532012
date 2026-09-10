@@ -1,0 +1,1 @@
+# Buat file dengan nama Numerik_2012.py
