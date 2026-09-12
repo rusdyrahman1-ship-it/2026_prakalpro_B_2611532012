@@ -5,6 +5,6 @@
 # Memasukkan nilai panjang dan lebar persegi panjang.
 # Nilai yang dimasukkan akan dikonversi menjadi tipe data integer
 panjang_2012 = input("Masukkan Nilai Panjang:")
-lebar_2012 = input("Masukkan Nilai Lebar")
+lebar_2012 = input("Masukkan Nilai Lebar:")
 luas_2012 = int(panjang_2012) * int(lebar_2012)
-print("Luas =:", luas_2012)
+print("Luas :", luas_2012)
