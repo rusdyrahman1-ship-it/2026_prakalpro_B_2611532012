@@ -5,6 +5,7 @@ nama_mahasiswa_2012 = input("Masukkan Nama :")
 jenis_kelamin_2012 = input("Masukkan Jenis Kelamin (L/P) : ")
 umur_2012 = int(input("Masukkan Umur : "))
 skor_tes_awal_2012 =float(input("Masukkan Skor Tes Awal : "))
+id_token_sinyal_2012 =100+3j
 print( " " )
 print("=== DATA PRATIKAN & HASIL PEMERIKSAAN ===")
 alamat_2012 ="""
@@ -17,7 +18,6 @@ print("Jenis Kelamin : ", jenis_kelamin_2012, "|" , "Tipe :", type(jenis_kelamin
 print("Alamat Domisili :", alamat_2012,"|", "Tipe :", type(alamat_2012))
 print("Umur :", umur_2012,"|", "Tipe :", type(umur_2012))
 print("Skor Tes Awal :", skor_tes_awal_2012, "|", "Tipe :", type(skor_tes_awal_2012))
-id_token_sinyal_2012 =100+3j
 print("ID Token Sinyal :", id_token_sinyal_2012, "|" ,"Tipe :", type(id_token_sinyal_2012))
 print( " " )
 print("=== STATUS KELULUSAN PRATIKUM ===")
