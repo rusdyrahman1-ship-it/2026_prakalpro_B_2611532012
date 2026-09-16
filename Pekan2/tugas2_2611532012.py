@@ -5,14 +5,14 @@ nama_mahasiswa_2012 = input("Masukkan Nama :")
 jenis_kelamin_2012 = input("Masukkan Jenis Kelamin (L/P) : ")
 umur_2012 = int(input("Masukkan Umur : "))
 skor_tes_awal_2012 =float(input("Masukkan Skor Tes Awal : "))
-id_token_sinyal_2012 =100+3j
-print( " " )
-print("=== DATA PRATIKAN & HASIL PEMERIKSAAN ===")
 alamat_2012 ="""
 Batu Belah,
 Kec. Kampar,
 Kab. Kampar,
 Prov. Riau """
+id_token_sinyal_2012 =100+3j
+print( " " )
+print("=== DATA PRATIKAN & HASIL PEMERIKSAAN ===")
 print("Nama Mahasiswa : ", nama_mahasiswa_2012 , "|" , "Tipe :", type(nama_mahasiswa_2012))
 print("Jenis Kelamin : ", jenis_kelamin_2012, "|" , "Tipe :", type(jenis_kelamin_2012))
 print("Alamat Domisili :", alamat_2012,"|", "Tipe :", type(alamat_2012))
