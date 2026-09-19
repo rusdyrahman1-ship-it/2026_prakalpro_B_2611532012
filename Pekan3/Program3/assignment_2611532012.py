@@ -26,6 +26,7 @@ hasil_2012 = angka1_2012
 hasil_2012 -= angka2_2012
 print("\nAssignment pengurangan (-=)")
 print("Hasil =", hasil_2012)
+
 # Assignment perkalian 
 hasil_2012 = angka1_2012
 hasil_2012 *= angka2_2012

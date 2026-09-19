@@ -34,7 +34,7 @@ print("angka1 == angka2 =", hasil_2012)
 
 # Tidak sama dengan 
 hasil_2012 = angka1_2012 != angka2_2012
-print("\nOperatot tidak sama dengan")
+print("\nOperator tidak sama dengan")
 print("angka1 != angka2 =", hasil_2012)
 
 # Tambahan: Perbandingan berantai dalam Python

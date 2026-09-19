@@ -14,6 +14,7 @@ print("Hasil = ", hasil_2012)
 
 # Pengurangan
 hasil_2012 = angka1_2012 - angka2_2012
+print("\nOperator Pengurangan")
 print("Hasil = ", hasil_2012)
 
 # Perkalian 
